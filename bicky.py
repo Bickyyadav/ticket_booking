@@ -1,0 +1,1 @@
+print("what will happer if only add")
